@@ -8,9 +8,9 @@ Este projeto foi desenvolvido como parte da trilha de Java da [DIO](https://www.
 
 Modelar e implementar o componente **iPhone**, simulando suas funcionalidades como:
 
-- 🎵 Reprodutor Musical  
-- 📞 Aparelho Telefônico  
-- 🌐 Navegador na Internet  
+🎵 Reprodutor Musical  
+📞 Aparelho Telefônico  
+🌐 Navegador na Internet  
 
 ---
 
@@ -18,7 +18,8 @@ Modelar e implementar o componente **iPhone**, simulando suas funcionalidades co
 
 O diagrama abaixo representa a estrutura de classes e interfaces utilizadas no projeto:
 
-![Diagrama UML do iPhone](../docs/diagrama.png)
+![Diagrama UML do iPhone](../../docs/diagrama.png)
+
 
 ---
 
@@ -37,20 +38,16 @@ Cada funcionalidade foi abstraída em uma **interface**, e a classe `IPhone` imp
 ## 📂 Estrutura do Projeto
 
 ```bash
-DESAFIOS/
-├── .vscode/
-├── bin/
-├── docs/
-│   └── diagrama.png
-├── lib/
-├── poo/
-│   └── README.md
-└── src/
-    ├── AparelhoTelefonico.java
-    ├── IPhone.java
-    ├── Main.java
-    ├── NavegadorInternet.java
-    └── ReprodutorMusical.java
+📂 desafios/poo
+┣ 📂 docs
+┣ 📂 src
+┃ ┣ 📜 AparelhoTelefonico.java
+┃ ┣ 📜 IPhone.java
+┃ ┣ 📜 Main.java
+┃ ┣ 📜 NavegadorInternet.java
+┃ ┣ 📜 ReprodutorMusical.java
+┃ ┗ 📜 .gitkeep
+┗ 📜 README.md
 ```
 
 
@@ -77,4 +74,12 @@ Página atualizada.<br>
 ## 📚 Referência Histórica
 
 Inspirado no momento icônico em que Steve Jobs apresentou o primeiro iPhone ao mundo. <br>
-📺 [Asista aqui a Apresentação de lançamento do iPhone](https://www.youtube.com/watch?v=9ou608QQRq8) — Uma versão legendada.
+📺 [Assista aqui a Apresentação de lançamento do iPhone](https://www.youtube.com/watch?v=9ou608QQRq8) — Uma versão legendada.
+
+## ✍️ Autoria
+
+Desenvolvido por ___Ana Thiel Fortes___ no bootcamp da DIO 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anathielfortes)
+[![GitHub](https://img.shields.io/badge/GitHub-8a2be2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiel29)
+
